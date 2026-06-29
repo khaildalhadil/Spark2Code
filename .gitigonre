@@ -1,0 +1,62 @@
+## Core Build Results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## .NET Core Specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## ASP.NET Core User Secrets & Configuration
+appsettings.Development.json
+*.user
+*.userosscache
+*.sln.docstates
+
+## IDEs and Editors
+# Visual Studio
+.vs/
+[Dd]ebug/
+[Rr]elease/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.opensdf
+*.sdf
+*.pidb
+*.glo
+*.rsp
+*.odsp
+*.obj
+*.log
+*.tlog
+*.idb
+*.cache
+*.ilk
+*.ilk
+*.pdb
+*.exp
+
+# Visual Studio Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+## Frontend Dependencies (If using SPA templates)
+node_modules/
+/wwwroot/lib/
+bower_components/
+
+## OS Metadata
+.DS_Store
+Thumbs.db
