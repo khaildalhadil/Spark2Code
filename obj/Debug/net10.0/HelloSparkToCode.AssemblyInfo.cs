@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelloSparkToCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+764ccd50c9ed7671cad3f32fa6b6e60e754989c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c003aba753c89dd2af3fcbd236d18ee54ecf8284")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelloSparkToCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelloSparkToCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
