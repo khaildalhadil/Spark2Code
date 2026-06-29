@@ -50,7 +50,9 @@ appsettings.Development.json
 
 # JetBrains Rider
 .idea/
-*.sln.iml
+*.sln.iml 
+
+
 
 ## Frontend Dependencies (If using SPA templates)
 node_modules/
