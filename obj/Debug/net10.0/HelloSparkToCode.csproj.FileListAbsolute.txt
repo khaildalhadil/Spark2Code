@@ -1,0 +1,15 @@
+C:\Users\khail\source\repos\Hello Spark To Code\Hello Spark To Code\bin\Debug\net10.0\HelloSparkToCode.exe
+C:\Users\khail\source\repos\Hello Spark To Code\Hello Spark To Code\bin\Debug\net10.0\HelloSparkToCode.deps.json
+C:\Users\khail\source\repos\Hello Spark To Code\Hello Spark To Code\bin\Debug\net10.0\HelloSparkToCode.runtimeconfig.json
+C:\Users\khail\source\repos\Hello Spark To Code\Hello Spark To Code\bin\Debug\net10.0\HelloSparkToCode.dll
+C:\Users\khail\source\repos\Hello Spark To Code\Hello Spark To Code\bin\Debug\net10.0\HelloSparkToCode.pdb
+C:\Users\khail\source\repos\Hello Spark To Code\Hello Spark To Code\obj\Debug\net10.0\HelloSparkToCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khail\source\repos\Hello Spark To Code\Hello Spark To Code\obj\Debug\net10.0\HelloSparkToCode.AssemblyInfoInputs.cache
+C:\Users\khail\source\repos\Hello Spark To Code\Hello Spark To Code\obj\Debug\net10.0\HelloSparkToCode.AssemblyInfo.cs
+C:\Users\khail\source\repos\Hello Spark To Code\Hello Spark To Code\obj\Debug\net10.0\HelloSparkToCode.csproj.CoreCompileInputs.cache
+C:\Users\khail\source\repos\Hello Spark To Code\Hello Spark To Code\obj\Debug\net10.0\HelloSparkToCode.sourcelink.json
+C:\Users\khail\source\repos\Hello Spark To Code\Hello Spark To Code\obj\Debug\net10.0\HelloSparkToCode.dll
+C:\Users\khail\source\repos\Hello Spark To Code\Hello Spark To Code\obj\Debug\net10.0\refint\HelloSparkToCode.dll
+C:\Users\khail\source\repos\Hello Spark To Code\Hello Spark To Code\obj\Debug\net10.0\HelloSparkToCode.pdb
+C:\Users\khail\source\repos\Hello Spark To Code\Hello Spark To Code\obj\Debug\net10.0\HelloSparkToCode.genruntimeconfig.cache
+C:\Users\khail\source\repos\Hello Spark To Code\Hello Spark To Code\obj\Debug\net10.0\ref\HelloSparkToCode.dll
